@@ -9,6 +9,9 @@ module.exports = {
     extend: {
       colors: {
         'white': '#ccc'
+      },
+      maxWidth: {
+        hd: '1920px'
       }
     },
   },
